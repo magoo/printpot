@@ -1,0 +1,4 @@
+printpot:
+  build: .
+  ports:
+   - "9100:9100"
